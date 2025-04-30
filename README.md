@@ -35,7 +35,13 @@ project-root/
 ```
 
 ---
+## Screenshots
+![image](https://github.com/user-attachments/assets/c41fe877-1578-484a-9597-630faf1af04a)
+![image](https://github.com/user-attachments/assets/c6671b1e-6bea-4e04-bd2b-b6cf87c7bc12)
+![image](https://github.com/user-attachments/assets/c3ac3d52-0cfa-4efd-bf27-36925040f554)
+![image](https://github.com/user-attachments/assets/081d34ee-a2a6-4665-a8a9-1c5b642527d2)
 
+---
 ## ⚙️ Backend Setup (Node.js)
 
 1. Navigate to the `backend/` directory:
